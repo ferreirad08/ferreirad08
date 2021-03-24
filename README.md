@@ -17,4 +17,4 @@ _Mestre em Engenharia Elétrica,_
 _Tecnólogo em Telecomunicações e_
 _Técnico em Eletrônica_
 
-❤️ redes sem fio, sistemas embarcados, aprendizado de máquina (machine learning) e processamento digital de imagens
+Redes Sem Fio, Sistemas Embarcados, Aprendizado de Máquina e Processamento Digital de Imagens
