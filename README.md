@@ -11,10 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-f-3a918ba5)
 
-Doutorando em Engenharia Elétrica
-
-Mestre em Engenharia Elétrica
-
-Tecnólogo em Telecomunicações
-
-Técnico em Eletrônica
+_Doutorando em Engenharia Elétrica_
+_Mestre em Engenharia Elétrica_
+_Tecnólogo em Telecomunicações_
+_Técnico em Eletrônica_
