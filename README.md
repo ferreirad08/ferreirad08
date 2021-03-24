@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 _Mestre em Engenharia Elétrica,_
 _Tecnólogo em Telecomunicações e_
 _Técnico em Eletrônica_
+
+❤️ redes sem fio, sistemas embarcados, aprendizado de máquina (machine learning) e processamento digital de imagens
