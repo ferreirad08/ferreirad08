@@ -17,4 +17,4 @@ _Mestre em Engenharia Elétrica,_
 _Tecnólogo em Telecomunicações e_
 _Técnico em Eletrônica_
 
-Redes Sem Fio, Sistemas Embarcados, Aprendizado de Máquina e Processamento Digital de Imagens
+_Redes Sem Fio, Sistemas Embarcados, Aprendizado de Máquina e Processamento Digital de Imagens_
