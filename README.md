@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-f-3a918ba5)
 [<img src="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg" fill="blue" width="20">](http://lattes.cnpq.br/3863655668683045)
-<span style="color: #b2c046;"><i class="ai ai-orcid ai-2x"></i></span>
+<span style="color: green"> Some green text </span>
 
 :mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
 
