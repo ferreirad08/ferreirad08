@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-f-3a918ba5)
 [Currículo Lattes](http://lattes.cnpq.br/3863655668683045)
 
-:mortar_board: _Doutorando em Engenharia Elétrica,_
-_Mestre em Engenharia Elétrica,_
-_Tecnólogo em Telecomunicações e_
-_Técnico em Eletrônica_
+:mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
 
 _Redes Sem Fio, Sistemas Embarcados, Aprendizado de Máquina e Processamento Digital de Imagens_
