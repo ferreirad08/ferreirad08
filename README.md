@@ -10,9 +10,7 @@ ferreirad08/ferreirad08 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-f-3a918ba5)
-[![Currículo Lattes](https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg)](http://lattes.cnpq.br/3863655668683045)
-[![Linkedin](https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg?&logo=lattes&logoColor=blue)](https://www.linkedin.com/in/david-f-3a918ba5)
-<img src="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg" width="100" height="100">
+[<img src="https://github.com/jpswalsh/academicons/blob/master/svg/lattes-square.svg" width="50">](http://lattes.cnpq.br/3863655668683045)
 
 :mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
 
