@@ -5,7 +5,7 @@
 img[src*="#thumbnail"] {
    width:90px;
    height:90px;
-   color: blue
+   color: blue;
 }
 
 :mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
