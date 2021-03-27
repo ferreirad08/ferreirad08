@@ -1,7 +1,11 @@
 [<img src="https://raw.githubusercontent.com/ferreirad08/ferreirad08/main/lattes-square.svg" width="40">](http://lattes.cnpq.br/3863655668683045)
 [<img src="https://raw.githubusercontent.com/ferreirad08/ferreirad08/main/LinkedIn-Icon-Black-Logo.wine.svg" width="90">](https://www.linkedin.com/in/david-f-3a918ba5)
 
-<span style="color:blue">some *blue* text</span>
+![Kitten](https://raw.githubusercontent.com/ferreirad08/ferreirad08/main/LinkedIn-Icon-Black-Logo.wine.svg#thumbnail)
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
 
 :mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
 
