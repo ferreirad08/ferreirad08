@@ -3,9 +3,9 @@
 
 ![LinkedIn](https://raw.githubusercontent.com/ferreirad08/ferreirad08/main/LinkedIn-Icon-Black-Logo.wine.svg#thumbnail)
 img[src*="#thumbnail"] {
-   width:90px;
-   height:90px;
    color: blue;
+   width: 90px;
+   height: 90px;
 }
 
 :mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
