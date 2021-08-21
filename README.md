@@ -3,4 +3,4 @@
 
 :mortar_board: _Doutorando em Engenharia Elétrica, Mestre em Engenharia Elétrica, Tecnólogo em Telecomunicações e Técnico em Eletrônica_
 
-:books: _Redes Sem Fio, Sistemas Embarcados, Aprendizado de Máquina e Processamento Digital de Imagens_
+:books: _Redes Sem Fio, Sistemas Embarcados e Aprendizado de Máquina_
